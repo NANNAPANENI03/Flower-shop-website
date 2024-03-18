@@ -1,4 +1,4 @@
-#Project Name: Flower Shop Website
+#Flower Shop Website
 
 **Description:**
 This project is a simple e-commerce website template built using HTML, CSS, JavaScript, jQuery, and Bootstrap. It features a homepage with sections for about, featured products, customer reviews, and a contact form. The website also includes functionality for adding products to a wishlist and a shopping cart.
